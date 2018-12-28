@@ -67,7 +67,7 @@ void  FindFilesInAFolder_Linux::listDir(const char *path,list<string> &fileList,
 /*
 int main(int argc,char *argv[]) 
 { 
-	const char *sourceFolder = "/home/j00230615/juwenqi/ARM/tools/Hi3516A_SDK_V1.0.1.0/mpp/sample/Windows/data/bmpfaces";
+	const char *sourceFolder = "/home/user/ARM/tools/Hi3516A_SDK_V1.0.1.0/mpp/sample/Windows/data/bmpfaces";
         listDir(sourceFolder); 
         return 0; 
 }*/
