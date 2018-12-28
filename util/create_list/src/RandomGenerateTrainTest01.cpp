@@ -1,6 +1,5 @@
 //============================================================================
 // Name        : RandomGenerateTrainTest01.cpp
-// Author      : jwq
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
@@ -246,7 +245,7 @@ int main(int argc,char **argv) {
 
 	//RandomGenerateOnlyName("./data",file_path_getcwd,number);
 	RandomGenerateOnlyName("./data","./",number);
-	//RandomGenerateOnlyName("/home/juwenqi/juwenqi/PictureDataBases/hand/train_file","./handYolo/",0.8,"jpg");
+	//RandomGenerateOnlyName("/home/user/PictureDataBases/hand/train_file","./handYolo/",0.8,"jpg");
 
 	//RandomGenerateOnlyName("./data1","./handYolo/",0.8,"jpg");
 	cout << "Process is over!!!" << endl;
